@@ -13,21 +13,20 @@ Associate Software Engineer at **Infogain** with hands-on experience in data pro
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Python - JavaScript - SQL (T-SQL, PostgreSQL) - HTML/CSS - SAS
+**Languages:**  
+`Python` • `JavaScript` • `SQL` • `HTML/CSS` • `SAS`
 
-**Backend & Frameworks:**
-FastAPI - Node.js - Flask - PySpark - Express.js
+**Backend & Frameworks:**  
+`FastAPI` • `Node.js` • `Flask` • `PySpark` • `Express.js`
 
-**Databases & Caching:**
-PostgreSQL - MongoDB - Redis - MySQL - SQLAlchemy ORM
+**Databases & Caching:**  
+`PostgreSQL` • `MongoDB` • `Redis` • `MySQL` • `SQLAlchemy`
 
-**Tools & DevOps:**
-Git & GitHub - Docker - Postman - VS Code - Linux
-Azure (learning) - Socket.io - WebSockets
+**Tools & DevOps:**  
+`Git & GitHub` • `Docker` • `Postman` • `VS Code` • `Linux` • `Azure` • `Socket.io`
 
-**Data Processing:**
-PySpark - SAS - Pandas - Excel automation - ETL pipelines
+**Data Processing:**  
+`PySpark` • `SAS` • `Pandas` • `Excel Automation` • `ETL Pipelines`
 
 ## 🎯 Current Focus (December 2025)
 
@@ -112,14 +111,18 @@ Live metrics and KPI tracking dashboard.
 
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedNasar07&show_icons=true&theme=radical)
 
+## 💪 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/MohammedNasarA?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/MohammedNasarA/)
+
 ## 🏆 2025 Goals
 
-- ✅ Complete 169-day DSA program (200 problems)
-- ✅ Build 4 production-grade portfolio projects
-- ✅ Deploy all projects with Docker
-- 🎯 Contribute to open-source projects
-- 🎯 Land backend engineer role at product-based company
-- 🎯 Master system design fundamentals
+- [ ] Complete 169-day DSA program (200 problems)
+- [ ] Build 4 production-grade portfolio projects
+- [ ] Deploy all projects with Docker
+- [ ] Contribute to open-source projects
+- [ ] Land backend engineer role at product-based company
+- [ ] Master system design fundamentals
 
 ## 💡 Recent Activity
 
@@ -130,9 +133,9 @@ Live metrics and KPI tracking dashboard.
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohammednasara7)
-- 📧 **Email:** nasarali2003@gmail.com
-- 💻 **LeetCode:** [MohammedNasar07](https://leetcode.com/u/MohammedNasarA/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammednasara7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/MohammedNasarA/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasarali2003@gmail.com)
 
 ---
 
@@ -147,4 +150,4 @@ Live metrics and KPI tracking dashboard.
 
 💡 **Currently open to:** Backend Engineering roles | SDE positions | Collaborative projects
 
-⭐️ From [MohammedNasar07](https://github.com/MohammedNasar07)
+⭐️ From [MohammedNasar07](https://github.com/MohammedNasar07) | Building in public 🚀
