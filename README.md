@@ -16,28 +16,18 @@ Associate Software Engineer at **Infogain** with hands-on experience in data pro
 **Languages:**
 Python - JavaScript - SQL (T-SQL, PostgreSQL) - HTML/CSS - SAS
 
-text
-
 **Backend & Frameworks:**
 FastAPI - Node.js - Flask - PySpark - Express.js
 
-text
-
 **Databases & Caching:**
 PostgreSQL - MongoDB - Redis - MySQL - SQLAlchemy ORM
-
-text
 
 **Tools & DevOps:**
 Git & GitHub - Docker - Postman - VS Code - Linux
 Azure (learning) - Socket.io - WebSockets
 
-text
-
 **Data Processing:**
 PySpark - SAS - Pandas - Excel automation - ETL pipelines
-
-text
 
 ## 🎯 Current Focus (December 2025)
 
